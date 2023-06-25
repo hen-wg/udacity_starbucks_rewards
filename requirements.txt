@@ -1,7 +1,12 @@
 pandas
 numpy
 matplotlib
+seaborn
 plotly
 nbformat>=4.2.0
 datetime
 nbstripout
+sweetviz
+pyarrow
+xgboost
+scikit-learn
