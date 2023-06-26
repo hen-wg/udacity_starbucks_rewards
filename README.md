@@ -3,7 +3,7 @@ This project forms part of the [Udacity Data Science nanodegree](https://www.uda
 
 This data set contains simulated data that mimics customer behavior on the Starbucks rewards mobile app.The aim of the project was to combine transaction, demographic and offer data to determine which demographic groups respond best to which offer type. Specifically, a predictive model was built that to predict if a user will that has viewed an offer will complete the offer based on the user demographics and offer details. Various data cleaning and transformation steps were performed to get the data ready for modeling.
 
-An XGBoost model was produced that predicted if an offer will be completed with an F1-score of 72%. Alternative models may be tested to increase model performance. Future work may also include analysing which customer demographic groups have the highest transaction values. This may be useful to see which offers these users respond to best.
+An XGBoost model was produced that predicted if an offer will be completed with an F1-score of 73%. Alternative models may be tested to increase model performance. Future work may also include analysing which customer demographic groups have the highest transaction values. This may be useful to see which offers these users respond to best.
 
 More information is published on the post on [Medium](https://medium.com/@henriettewevell/de882cfdfdb0)
 
@@ -35,6 +35,8 @@ python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 ```
+
+All libraries used can be found in the requirements.txt file.
 
 ## Testing
 Testing and code modularization was beyond the scope of this tutorial but may be included for future work.
