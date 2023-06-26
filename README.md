@@ -5,7 +5,7 @@ This data set contains simulated data that mimics customer behavior on the Starb
 
 An XGBoost model was produced that predicted if an offer will be completed with an F1-score of 73%. Alternative models may be tested to increase model performance. Future work may also include analysing which customer demographic groups have the highest transaction values. This may be useful to see which offers these users respond to best.
 
-More information is published on the post on [Medium](https://medium.com/@henriettewevell/de882cfdfdb0)
+More information is published on the post on [Medium](https://medium.com/@henriettewevell/de882cfdfdb0).
 
 # Project Folders and files
 Please see below a description of each of the folders and files of interest.                                       
@@ -40,3 +40,6 @@ All libraries used can be found in the requirements.txt file.
 
 ## Testing
 Testing and code modularization was beyond the scope of this tutorial but may be included for future work.
+
+## Licensing, Authors, Acknowledgement
+The data for this project was provided by Udacity.
