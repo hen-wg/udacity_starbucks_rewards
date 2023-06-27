@@ -38,8 +38,5 @@ pip install -r requirements.txt
 
 All libraries used can be found in the requirements.txt file.
 
-## Testing
-Testing and code modularization was beyond the scope of this tutorial but may be included for future work.
-
 ## Licensing, Authors, Acknowledgement
 The data for this project was provided by Udacity.
